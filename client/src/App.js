@@ -24,6 +24,7 @@ const App = observer(() => {
 
     return (
         <BrowserRouter>
+        <h1>poxos</h1>
             <NavBar />
             <AppRouter />
         </BrowserRouter>
